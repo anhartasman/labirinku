@@ -1,0 +1,15 @@
+{
+  "name": "labirinku",
+  "version": "1.0.0",
+  "description": "menggenerate gambar labirin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "draw": "node draw.js"
+  },
+  "author": "tasboy",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.0"
+  }
+}
